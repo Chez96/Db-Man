@@ -1,0 +1,40 @@
+9 pts
+
+Correct SQL statements
+SQL statements are readable
+Correct output for some queries
+
+Recommendations: 
+ To improve your readability, write queries instead of this
+  Select *
+  From Products
+  Where city NOT in ('Dallas' , 'Duluth') AND priceUSD >= 1;
+ do it like this:
+  SELECT *
+  FROM products
+  WHERE city NOT IN ('Dallas', 'Duluth')
+    AND priceUSD >= 1;
+
+
+2. List the name and city of agents named Smith.
+
+Incorrect output
+- You are giving all fields, which is incorrect, you were asked to give
+  [name,city]
+
+
+
+In general: 
+
+- Test all your SQL statements.
+
+- Make sure you read all the instructions for queries really well.
+
+- You submitted a text file, that was not runnable, I had to convert your
+  file to the desired format. Please check the file I created lab3.sql
+
+- PLEASE only include your queries! You included a lot of other things. You
+  droped my tables when I ran your file! I am a bit upset about that.
+
+
+- Dr. Rivas

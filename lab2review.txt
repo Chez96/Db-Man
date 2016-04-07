@@ -1,0 +1,35 @@
+9 pts
+
+1. 
+
+Evidence looks ok.
+
+You could have joined the screenshots for better organization.
+
+
+2.
+
+Sufficient knowledge of the terms primary key, candidate key, and superkey.
+
+There is a word missing in the sentence: "And a super key is any column or a
+set of columns that identify every row." It should say "... that _uniquely_
+identify every row"
+
+
+3.
+
+So, if a someone does not have a phone number, you are not going to let that
+person become a student at Marist?
+
+
+4.
+
+The ``frist normal form'' has little to do with what you wrote. Please check
+your notes and the textbook Chapter 6.1.
+
+The ``access rows by content only'' rule explanation is wrong. Please check
+your notes or the book Chapter 6.1.
+
+
+
+- Dr. Rivas
