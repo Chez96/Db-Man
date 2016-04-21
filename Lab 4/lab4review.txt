@@ -1,0 +1,47 @@
+7 pts
+
+Correct queries
+Correct SQL statements
+SQL statements are readable
+Correct output for some queries
+
+
+
+4. Get the ids of customers who ordered both product p01 and p07.
+
+Incorrect output
+- why 'p02'?
+
+
+5. Get the ids of products not ordered by any customers who placed any order
+through agent a07 in pid order from highest to lowest.
+
+Incorrect output
+- It seems like you did not read the correct instructions for this query. Read
+  it again, please.
+
+
+7. Get all customers who have the same discount as that of any customers in
+Dallas or London
+
+Incorrect output
+- It seems like you did not read the correct instructions for this query. Read
+  it again, please. Why New York?
+
+
+8. Tell me about check constraints: What are they? What are they good for? What
+is the advantage of putting that sort of thing inside the database? Make up
+some examples of good uses of check constraints and some examples of bad uses
+of check constraints. Explain the differences in your examples and argue your
+case.
+
+- Your definition of a check constraint is wrong. 
+
+
+In general: 
+
+- Please do not use tabs for indentation. Use spaces instead.
+
+
+
+- Dr. Rivas
